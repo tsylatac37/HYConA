@@ -20,7 +20,8 @@ The "HYConA" project proposes a helmet-mounted conformal antenna for tactical co
 ---
 
 ## Methodology
-![Methodology Flow](Methodology.png)
+<img src="Methodology.png" alt="Methodology Flow" width="500">
+
   
 ## Repository Structure
 
