@@ -31,6 +31,7 @@ HYConA/
 ├── image.png
 ├── L band 1.4GHz.cst
 ├── sih.cst
+├── Methodology.png
 └── pookieantenna/
     ├── pookieantenna.cst
     └── lmao.md
