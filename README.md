@@ -20,23 +20,11 @@ The "HYConA" project proposes a helmet-mounted conformal antenna for tactical co
 ---
 
 ## Methodology
-<img src="Methodology.png" alt="Methodology Flow" width="400">
-
+<img src="Assests/Methodology.png" alt="Methodology Flow" width="400">
+---
   
 ## Contributors
 
-| [<img src="https://github.com/prezzz-63.png" width="120px;"/><br /><sub><b>Priyasmita Garanayak</b></sub>](https://github.com/prezzz-63) | [<img src="https://github.com/tsylatac37.png" width="120px;"/><br /><sub><b>Sai Prasad Padhy</b></sub>](https://github.com/tsylatac37) | [<img src="https://github.com/G08Tejaswini.png" width="120px;"/><br /><sub><b>Ganti Tejaswini</b></sub>](https://github.com/G08Tejaswini) | [<img src="https://github.com/cain-ux.png" width="120px;"/><br /><sub><b>Gorthi Sai Satwik</b></sub>](https://github.com/cain-ux) |
-| :---: | :---: | :---: | :---: |
-
-
-```text
-HYConA/
-├── README.md
-├── SIH_2026_Problem_Statement_Selection_Report.md
-├── image.png
-├── L band 1.4GHz.cst
-├── sih.cst
-├── Methodology.png
-└── pookieantenna/
-    ├── pookieantenna.cst
-    └── lmao.md
+| [<img src="https://github.com/prezzz-63.png" width="110px;"/><br /><sub><b>Priyasmita Garanayak</b></sub>](https://github.com/prezzz-63) | [<img src="https://github.com/tsylatac37.png" width="110px;"/><br /><sub><b>Sai Prasad Padhy</b></sub>](https://github.com/tsylatac37) | [<img src="https://github.com/G08Tejaswini.png" width="110px;"/><br /><sub><b>Ganti Tejaswini</b></sub>](https://github.com/G08Tejaswini) | [<img src="https://github.com/cain-ux.png" width="110px;"/><br /><sub><b>Gorthi Sai Satwik</b></sub>](https://github.com/cain-ux) | [<img src="https://github.com/sriprajnaA.png" width="110px;"/><br /><sub><b>Sri Prajna</b></sub>](https://github.com/sriprajnaA) | [<img src="https://github.com/shantanuk8707-afk.png" width="110px;"/><br /><sub><b>Shantanu Kumar</b></sub>](https://github.com/shantanuk8707-afk) |
+| :---: | :---: | :---: | :---: | :--: | :--: |
+---
