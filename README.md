@@ -20,10 +20,14 @@ The "HYConA" project proposes a helmet-mounted conformal antenna for tactical co
 ---
 
 ## Methodology
-<img src="Methodology.png" alt="Methodology Flow" width="500">
+<img src="Methodology.png" alt="Methodology Flow" width="400">
 
   
-## Repository Structure
+## Contributors
+
+| [<img src="https://github.com/prezzz-63.png" width="120px;"/><br /><sub><b>Priyasmita Garanayak</b></sub>](https://github.com/prezzz-63) | [<img src="https://github.com/tsylatac37.png" width="120px;"/><br /><sub><b>Sai Prasad Padhy</b></sub>](https://github.com/tsylatac37) | [<img src="https://github.com/G08Tejaswini.png" width="120px;"/><br /><sub><b>Ganti Tejaswini</b></sub>](https://github.com/G08Tejaswini) | [<img src="https://github.com/cain-ux.png" width="120px;"/><br /><sub><b>Gorthi Sai Satwik</b></sub>](https://github.com/cain-ux) |
+| :---: | :---: | :---: | :---: |
+
 
 ```text
 HYConA/
